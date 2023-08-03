@@ -6,3 +6,4 @@
 * "MySql" database is used for storing data.(Note: Password is lefted blank kindly change is according to your system).
 * In this particular project values are not hardcoded . Particular persion have to add the values directly in MYSQL, there is three table in database USERS,ROLES,STUDENTS,USERS_ROLES kindly add values in every table before executing this project.
 * For reference please go through with the pdf file i have added in this repository.
+* "Lab6-studentdb.sql" file is added in this reepository for query reference.
